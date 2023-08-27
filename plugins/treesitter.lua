@@ -6,6 +6,7 @@ return {
       "lua",
       "rust",
       "toml",
+      "php",
     })
   end,
 }
