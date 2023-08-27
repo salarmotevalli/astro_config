@@ -7,6 +7,7 @@ return {
       "rust",
       "toml",
       "php",
+      "yaml",
     })
   end,
 }

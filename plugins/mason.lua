@@ -11,6 +11,7 @@ return {
         "rust_analyzer",
         "taplo",
         "phpactor",
+        "yamlls",
       })
     end,
   },
